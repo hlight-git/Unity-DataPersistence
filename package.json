@@ -1,0 +1,12 @@
+{
+    "name": "com.hlight.data-persistence",
+    "version": "1.0.0",
+    "displayName": "Data Persistence",
+    "description": "Data save/load layer with typed bundles and handles for Hlight Unity projects.",
+    "unity": "6000.0",
+    "author": {
+        "name": "Hlight",
+        "email": "",
+        "url": ""
+    }
+}

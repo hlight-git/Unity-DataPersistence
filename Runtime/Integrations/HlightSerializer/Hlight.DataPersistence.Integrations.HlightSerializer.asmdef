@@ -1,0 +1,33 @@
+{
+    "name": "Hlight.DataPersistence.Integrations.HlightSerializer",
+    "rootNamespace": "Hlight.DataPersistence.Integrations",
+    "references": [
+        "Hlight.DataPersistence",
+        "Hlight.Serialization.Serializer",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITASK",
+        "ODIN_INSPECTOR",
+        "HLIGHT_SERIALIZATION"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "",
+            "define": "UNITASK"
+        },
+        {
+            "name": "com.hlight.serialization",
+            "expression": "",
+            "define": "HLIGHT_SERIALIZATION"
+        }
+    ],
+    "noEngineReferences": false
+}
