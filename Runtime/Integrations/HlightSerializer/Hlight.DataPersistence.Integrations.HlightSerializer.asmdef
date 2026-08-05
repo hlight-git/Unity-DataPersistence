@@ -3,7 +3,7 @@
     "rootNamespace": "Hlight.DataPersistence.Integrations",
     "references": [
         "Hlight.DataPersistence",
-        "Hlight.Serialization.Serializer",
+        "Hlight.Serialization",
         "UniTask"
     ],
     "includePlatforms": [],
