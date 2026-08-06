@@ -17,7 +17,6 @@ namespace Hlight.DataPersistence.Tests
         // registered callback dies and RunFinished never fires.
         private static TestRunnerApi api;
 
-        [MenuItem("Tools/Hlight/Run Data Persistence Tests")]
         public static void Run()
         {
             if (File.Exists(RESULT_PATH)) File.Delete(RESULT_PATH);
